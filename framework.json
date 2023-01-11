@@ -1,0 +1,105 @@
+{
+    "zips": [
+    {
+        "arch": "x64",
+        "sdks": ["22"],
+        "title": "sdk22 x64",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v86-sdk22-arm64.zip",
+        "current": true,
+        "versions": [
+            {
+            "sdks": ["22"],
+            "archs":["x64"],
+            "version":"sdk22-x64"
+            }
+        ]
+    },
+          
+    {
+      "arch": "x86",
+      "sdks": ["22"],
+      "title": "sdk22-x86",
+      "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v86-sdk22-x86.zip",
+      "current": true,
+      "versions": [
+        {
+          "sdks": ["22"],
+          "archs":["x86"],
+          "version":"sdk22-x86"
+        }
+      ]
+    },
+    
+    {
+        "arch": "arm",
+        "sdks": ["22"],
+        "title": "sdk22 arm",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v86-sdk22-arm.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["22"],
+            "archs":["arm"],
+            "version":"sdk22-arm"
+          }
+        ]
+      },
+      {
+        "arch": "x64",
+        "sdks": ["24"],
+        "title": "sdk24 x64",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk24-arm64.zip",
+        "current": true,
+        "versions": [
+            {
+            "sdks": ["24"],
+            "archs":["x64"],
+            "version":"sdk24-x64"
+            }
+        ]
+        },
+      {
+        "arch": "x86",
+        "sdks": ["25"],
+        "title": "sdk25 x86",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-x86.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["25"],
+            "archs":["x86"],
+            "version":"sdk25-x86"
+          }
+        ]
+      },
+      {
+        "arch": "x64",
+        "sdks": ["25"],
+        "title": "sdk25 x64",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-arm64.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["25"],
+            "archs":["x64"],
+            "version":"sdk25-x64"
+          }
+        ]
+      },
+       {
+        "arch": "x86",
+        "sdks": ["29","25","22"],
+        "title": "Uninstall x86",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20180117-x86.zip",
+        "current": true,
+        "type":"uninstaller",
+        "versions": [
+          {
+            "sdks": ["29","25","22"],
+            "archs":["x86"],
+            "version":"uninstaller-x86"
+          }
+        ]
+      }
+    ]
+  }
