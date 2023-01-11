@@ -3,7 +3,7 @@
       {
         "arch": "arm",
         "sdks": ["21"],
-        "title": "sdk21 arm",
+        "title": "Android 5.0 arm",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk21-arm.zip",
         "current": true,
         "versions": [
@@ -17,7 +17,7 @@
       {
       "arch": "x86",
       "sdks": ["21"],
-      "title": "sdk21-x86",
+      "title": "Android 5.0 x86",
       "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk22-x86.zip",
       "current": true,
       "versions": [
@@ -30,30 +30,30 @@
     },
 
     {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["21"],
-        "title": "sdk21 x64",
+        "title": "Android 5.0 arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk21-arm64.zip",
         "current": true,
         "versions": [
             {
             "sdks": ["21"],
-            "archs":["x64"],
-            "version":"sdk21-x64"
+            "archs":["arm64"],
+            "version":"sdk21-arm64"
             }
         ]
     },
     {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["22"],
-        "title": "sdk22 x64",
+        "title": "Android 5.1 arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk22-arm64.zip",
         "current": true,
         "versions": [
             {
             "sdks": ["22"],
-            "archs":["x64"],
-            "version":"sdk22-x64"
+            "archs":["arm64"],
+            "version":"sdk22-arm64"
             }
         ]
     },
@@ -61,7 +61,7 @@
     {
       "arch": "x86",
       "sdks": ["22"],
-      "title": "sdk22-x86",
+      "title": "Android 5.1 x86",
       "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk22-x86.zip",
       "current": true,
       "versions": [
@@ -76,7 +76,7 @@
     {
         "arch": "arm",
         "sdks": ["22"],
-        "title": "sdk22 arm",
+        "title": "Android 5.1 arm",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk22-arm.zip",
         "current": true,
         "versions": [
@@ -91,7 +91,7 @@
       {
         "arch": "arm",
         "sdks": ["23"],
-        "title": "sdk23 arm",
+        "title": "Android 6.0 arm",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk23-arm.zip",
         "current": true,
         "versions": [
@@ -105,7 +105,7 @@
       {
       "arch": "x86",
       "sdks": ["23"],
-      "title": "sdk23-x86",
+      "title": "Android 6.0 x86",
       "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk23-x86.zip",
       "current": true,
       "versions": [
@@ -118,23 +118,23 @@
     },
 
     {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["23"],
-        "title": "sdk23 x64",
+        "title": "Android 6.0 arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk23-arm64.zip",
         "current": true,
         "versions": [
             {
             "sdks": ["23"],
-            "archs":["x64"],
-            "version":"sdk23-x64"
+            "archs":["arm64"],
+            "version":"sdk23-arm64"
             }
         ]
     },
     {
         "arch": "arm",
         "sdks": ["24"],
-        "title": "sdk24 arm",
+        "title": "Android 7.0 arm",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk24-arm.zip",
         "current": true,
         "versions": [
@@ -148,7 +148,7 @@
       {
       "arch": "x86",
       "sdks": ["24"],
-      "title": "sdk24-x86",
+      "title": "Android 7.0 x86",
       "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk24-x86.zip",
       "current": true,
       "versions": [
@@ -160,23 +160,23 @@
       ]
     },
       {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["24"],
-        "title": "sdk24 x64",
+        "title": "Android 7.0 arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk24-arm64.zip",
         "current": true,
         "versions": [
             {
             "sdks": ["24"],
-            "archs":["x64"],
-            "version":"sdk24-x64"
+            "archs":["arm64"],
+            "version":"sdk24-arm64"
             }
         ]
         },
       {
         "arch": "x86",
         "sdks": ["25"],
-        "title": "sdk25 x86",
+        "title": "Android 7.1 x86",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-x86.zip",
         "current": true,
         "versions": [
@@ -190,7 +190,7 @@
       {
         "arch": "x86_64",
         "sdks": ["25"],
-        "title": "sdk25 x86_64",
+        "title": "Android 7.1 x86_64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-x86_64.zip",
         "current": true,
         "versions": [
@@ -204,7 +204,7 @@
       {
         "arch": "arm",
         "sdks": ["25"],
-        "title": "sdk25 arm",
+        "title": "Android 7.1 arm",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-arm.zip",
         "current": true,
         "versions": [
@@ -216,16 +216,16 @@
         ]
       },
       {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["25"],
-        "title": "sdk25 x64",
+        "title": "Android 7.1 arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v89-sdk25-arm64.zip",
         "current": true,
         "versions": [
           {
             "sdks": ["25"],
-            "archs":["x64"],
-            "version":"sdk25-x64"
+            "archs":["arm64"],
+            "version":"sdk25-arm64"
           }
         ]
       },
@@ -245,17 +245,17 @@
         ]
       },
       {
-        "arch": "x64",
+        "arch": "arm64",
         "sdks": ["29","25","22"],
-        "title": "Uninstall x64",
+        "title": "Uninstall arm64",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20170719-arm64.zip",
         "current": true,
         "type":"uninstaller",
         "versions": [
           {
             "sdks": ["25","24","23","22","21"],
-            "archs":["x64"],
-            "version":"uninstaller-x64"
+            "archs":["arm64"],
+            "version":"uninstaller-arm64"
           }
         ]
       },
