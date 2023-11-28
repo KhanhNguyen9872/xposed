@@ -271,16 +271,101 @@
           }
         ]
       },
+      {
+        "arch": "x86",
+        "sdks": ["27"],
+        "title": "Android 8.1 x86 beta3",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v90-sdk27-x86-beta3.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["27"],
+            "archs":["x86"],
+            "version":"sdk27-x86"
+          }
+        ]
+      },
+      {
+        "arch": "arm",
+        "sdks": ["27"],
+        "title": "Android 8.1 arm beta3",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v90-sdk27-arm-beta3.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["27"],
+            "archs":["arm"],
+            "version":"sdk27-arm"
+          }
+        ]
+      },
+      {
+        "arch": "arm64",
+        "sdks": ["27"],
+        "title": "Android 8.1 arm64 beta3",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v90-sdk27-arm64-beta3.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["27"],
+            "archs":["arm64"],
+            "version":"sdk27-arm64"
+          }
+        ]
+      },
+      {
+        "arch": "x86_64",
+        "sdks": ["28"],
+        "title": "Android 9 x86_64 beta1",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v91-sdk28-x86_64-beta1.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["28"],
+            "archs":["x86_64"],
+            "version":"sdk28-x86_64"
+          }
+        ]
+      },
+      {
+        "arch": "arm64",
+        "sdks": ["28"],
+        "title": "Android 9 arm64 beta1",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v91-sdk28-arm64-beta1.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["28"],
+            "archs":["arm64"],
+            "version":"sdk28-arm64"
+          }
+        ]
+      },
+      {
+        "arch": "arm64",
+        "sdks": ["29"],
+        "title": "Android 10 arm64 beta1",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-v91-sdk29-arm64-beta1.zip",
+        "current": true,
+        "versions": [
+          {
+            "sdks": ["29"],
+            "archs":["arm64"],
+            "version":"sdk29-arm64"
+          }
+        ]
+      },
+
        {
         "arch": "x86",
-        "sdks": ["26","25","24","23","22","21"],
-        "title": "Uninstall x86",
+        "sdks": ["27","26","25","24","23","22","21"],
+        "title": "Uninstall x86 [20180117]",
         "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20180117-x86.zip",
         "current": true,
         "type":"uninstaller",
         "versions": [
           {
-            "sdks": ["26","25","24","23","22","21"],
+            "sdks": ["27","26","25","24","23","22","21"],
             "archs":["x86"],
             "version":"uninstaller-x86"
           }
@@ -288,14 +373,14 @@
       },
       {
         "arch": "arm64",
-        "sdks": ["26","25","24","23","22","21"],
-        "title": "Uninstall arm64",
-        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20170719-arm64.zip",
+        "sdks": ["27","26","25","24","23","22","21"],
+        "title": "Uninstall arm64 [20180117]",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20180117-arm64.zip",
         "current": true,
         "type":"uninstaller",
         "versions": [
           {
-            "sdks": ["26","25","24","23","22","21"],
+            "sdks": ["27","26","25","24","23","22","21"],
             "archs":["arm64"],
             "version":"uninstaller-arm64"
           }
@@ -303,16 +388,46 @@
       },
       {
         "arch": "arm",
-        "sdks": ["26","25","24","23","22","21"],
-        "title": "Uninstall arm",
-        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20170719-arm.zip",
+        "sdks": ["27","26","25","24","23","22","21"],
+        "title": "Uninstall arm [20180117]",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-20180117-arm.zip",
         "current": true,
         "type":"uninstaller",
         "versions": [
           {
-            "sdks": ["26","25","24","23","22","21"],
+            "sdks": ["27","26","25","24","23","22","21"],
             "archs":["arm"],
             "version":"uninstaller-arm"
+          }
+        ]
+      },
+      {
+        "arch": "arm64",
+        "sdks": ["28", "29"],
+        "title": "Uninstall arm64 [f7L6cnc4]",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-f7L6cnc4-arm64.zip",
+        "current": true,
+        "type":"uninstaller",
+        "versions": [
+          {
+            "sdks": ["28", "29"],
+            "archs":["arm64"],
+            "version":"uninstaller-arm64"
+          }
+        ]
+      },
+      {
+        "arch": "x86_64",
+        "sdks": ["28", "29"],
+        "title": "Uninstall x86_64 [f7L6cnc4]",
+        "url": "https://KhanhNguyen9872.github.io/xposed/module/xposed-uninstaller-f7L6cnc4-x86_64.zip",
+        "current": true,
+        "type":"uninstaller",
+        "versions": [
+          {
+            "sdks": ["28", "29"],
+            "archs":["x86_64"],
+            "version":"uninstaller-x86_64"
           }
         ]
       }
